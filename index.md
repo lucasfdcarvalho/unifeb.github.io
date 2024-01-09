@@ -7,7 +7,7 @@
 
 ## Menu
 
-Some information about subjects, projects, etc.
+Some information about subjects, projects, etc:
 
 - [Subjects](subjects.md)
 - [Projects](projects.md)
