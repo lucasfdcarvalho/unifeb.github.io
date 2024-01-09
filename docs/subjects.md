@@ -1,41 +1,19 @@
-# **Subjects**
+# **Subjects:**
 
-This project is a built around GitHub's functionality which lets you use GitHub Pages to render markdown (or HTML) files as a static website, from your root or `docs` folder.
+## 2024/1:
 
-Jekyll is still actually used to convert the files, but the project works with **no** typical Jekyll files such as layouts, themes, gems or configs. Github handles the CSS styling with a basic blue and white theme.
+### **Unifeb SI - Sistemas Inteligentes**
+[![omiguelsma - unifeb-si-sistemas-inteligentes](https://img.shields.io/static/v1?label=omiguelsma&message=unifeb-si-sistemas-inteligentes&color=blue&logo=github)](https://github.com/omiguelsma/unifeb-si-sistemas-inteligentes "Go to GitHub repo") [![stars - unifeb-si-sistemas-inteligentes](https://img.shields.io/github/stars/omiguelsma/unifeb-si-sistemas-inteligentes?style=social)](https://github.com/omiguelsma/unifeb-si-sistemas-inteligentes) [![forks - unifeb-si-sistemas-inteligentes](https://img.shields.io/github/forks/omiguelsma/unifeb-si-sistemas-inteligentes?style=social)](https://github.com/omiguelsma/unifeb-si-sistemas-inteligentes)
 
-This means it is very **light**, as you only write content.
+### **Unifeb SI - Projeto Integrador: Algoritmo e Lógica de Programação**
 
-Note you can still use Jekyll Liquid templating. But the idea for this project is to avoid it and make a plain markdown docs site, which is easy for anyone to edit without Jekyll experience.
-
-Your root page should be `index.md` or `README.md`. There is no navbar, so it is recommended to add a menu on your homepage which links to the other pages. You can always get back to the homepage using the link added for you at the top of every page.
-
-
-### Convert to Jekyll
-
-The approach here is also flexible - you can add a `_config.yml` file and a theme to turn your site in a proper Jekyll-based themed site.
-
-You don't even have to add metadata to your pages - the layout will be set as `default.html`.
+[![omiguelsma - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/static/v1?label=omiguelsma&message=unifeb-si-projeto-integrador-algoritmo-logica-de-programacao&color=blue&logo=github)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao "Go to GitHub repo") [![stars - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/github/stars/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao) [![forks - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/github/forks/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao)
 
 
 
+##
+[![Home - omiguelsma](https://img.shields.io/badge/Home-omiguelsma-2ea44f)](https://omiguelsma.github.io/)
 
-## About this repo
+## *About:*
 
-<!-- TODO move to docs -->
-
-- A static site intended for docs or simple website. This project is great as reference or template for those.
-- No custom styling such as CSS is used. Just plain markdown docs. GitHub automatically adds something like this to each page:
-    - Site title
-        - _gh-pages-no-jekyll_
-    - CSS styling reference to make the page white and blue.
-        - GitHub will create this file for you at the path `assets/css/style.css` and add a `link` stylesheet tag to a URL like this:
-            - `/gh-pages-no-jekyll/assets/css/style.css?v=fb1...">`
-        - Here is a [sample](https://michaelcurrin.github.io/gh-pages-no-jekyll/assets/css/style.css)
-    - Footer
-        - _This site is open source. Improve this page._
-- No Jekyll theme or Liquid syntax is used. Where Liquid is actually used, it is code snippets and the `raw` tag is used to stop from rendering and giving an error on values no available).
-- The Jekyll build is still run on Github Pages to convert markdown to HTML (a `.nojekyll` file would prevent this).
-- This project is **not** meant to be run locally (if there is a way, this is not covered here).
-
-Read more on the live [demo site](https://michaelcurrin.github.io/gh-pages-no-jekyll/), which serves from the [docs](/docs/) directory.
+[![omiguelsma](https://img.shields.io/badge/omiguelsma-2ea44f?logo=linktree)](https://linktr.ee/omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-0A66C2?logo=linkedin)](https://www.linkedin.com/in/omiguelsma/) [![newsletter](https://img.shields.io/badge/newsletter-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/newsletters/miguel-martins-7096867405242507264/) [![omiguelsma](https://img.shields.io/badge/omiguelsma-E4405F?logo=instagram&logoColor=white)](https://www.linkedin.com/in/omiguelsma/) [![omiguelsma](https://img.shields.io/badge/omiguelsma-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-black?logo=github)](https://github.com/omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-EA4335?logo=gmail&logoColor=white)](mailto:omiguelsma@gmail.com) [![cv lattes](https://img.shields.io/badge/cv_lattes-blue?logo=readdotcv&logoColor=white)](http://lattes.cnpq.br/1312273870344874) [![omiguelsma](https://img.shields.io/badge/omiguelsma-03EF62?logo=DataCamp&logoColor=white)](https://www.datacamp.com/portfolio/omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/omiguelsma)
