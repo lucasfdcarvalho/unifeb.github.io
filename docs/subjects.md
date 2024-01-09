@@ -1,5 +1,7 @@
 # **Subjects:**
 
+[![Home - omiguelsma](https://img.shields.io/badge/Home-omiguelsma-2ea44f)](https://omiguelsma.github.io/)
+
 ## 2024/1:
 
 ### **Unifeb SI - Sistemas Inteligentes**
@@ -9,10 +11,6 @@
 
 [![omiguelsma - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/static/v1?label=omiguelsma&message=unifeb-si-projeto-integrador-algoritmo-logica-de-programacao&color=blue&logo=github)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao "Go to GitHub repo") [![stars - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/github/stars/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao) [![forks - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/github/forks/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao)
 
-
-
-##
-[![Home - omiguelsma](https://img.shields.io/badge/Home-omiguelsma-2ea44f)](https://omiguelsma.github.io/)
 
 ## *About:*
 
