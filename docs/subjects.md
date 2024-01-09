@@ -1,7 +1,5 @@
 # **Subjects:**
 
-[![Home - omiguelsma](https://img.shields.io/badge/Home-omiguelsma-2ea44f)](https://omiguelsma.github.io/)
-
 ## 2024/1:
 
 ### **Unifeb SI - Sistemas Inteligentes**
