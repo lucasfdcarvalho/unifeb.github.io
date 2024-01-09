@@ -9,8 +9,8 @@
 
 Some information about subjects, projects, etc:
 
-- [Subjects](subjects.md)
-- [Projects](projects.md)
+- [Subjects](/docs/subjects.md)
+- [Projects](/docs/projects.md)
 
 
 ## Source
