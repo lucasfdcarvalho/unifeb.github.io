@@ -9,8 +9,8 @@
 
 Some information about subjects, projects, etc.
 
-- [Subjects](features.md)
-- [Projects](limitations.md)
+- [Subjects](subjects.md)
+- [Projects](projects.md)
 
 
 ## Source
