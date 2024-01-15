@@ -5,10 +5,11 @@
 ### **Unifeb SI - Sistemas Inteligentes**
 [![omiguelsma - unifeb-si-sistemas-inteligentes](https://img.shields.io/static/v1?label=omiguelsma&message=unifeb-si-sistemas-inteligentes&color=blue&logo=github)](https://github.com/omiguelsma/unifeb-si-sistemas-inteligentes "Go to GitHub repo") [![stars - unifeb-si-sistemas-inteligentes](https://img.shields.io/github/stars/omiguelsma/unifeb-si-sistemas-inteligentes?style=social)](https://github.com/omiguelsma/unifeb-si-sistemas-inteligentes) [![forks - unifeb-si-sistemas-inteligentes](https://img.shields.io/github/forks/omiguelsma/unifeb-si-sistemas-inteligentes?style=social)](https://github.com/omiguelsma/unifeb-si-sistemas-inteligentes)
 
-### **Unifeb SI - Projeto Integrador: Algoritmo e Lógica de Programação**
+### **Unifeb SI - Projeto Integrador: Progamação Orientada a Objetos e Prototipagem**
 
-[![omiguelsma - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/static/v1?label=omiguelsma&message=unifeb-si-projeto-integrador-algoritmo-logica-de-programacao&color=blue&logo=github)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao "Go to GitHub repo") [![stars - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/github/stars/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao) [![forks - unifeb-si-projeto-integrador-algoritmo-logica-de-programacao](https://img.shields.io/github/forks/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-algoritmo-logica-de-programacao)
-
+[![omiguelsma - unifeb-si-projeto-integrador-poo-e-prototipagem](https://img.shields.io/static/v1?label=omiguelsma&message=unifeb-si-projeto-integrador-poo-e-prototipagem&color=blue&logo=github)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-poo-e-prototipagem "Go to GitHub repo")
+[![stars - unifeb-si-projeto-integrador-poo-e-prototipagem](https://img.shields.io/github/stars/omiguelsma/unifeb-si-projeto-integrador-poo-e-prototipagem?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-poo-e-prototipagem)
+[![forks - unifeb-si-projeto-integrador-poo-e-prototipagem](https://img.shields.io/github/forks/omiguelsma/unifeb-si-projeto-integrador-poo-e-prototipagem?style=social)](https://github.com/omiguelsma/unifeb-si-projeto-integrador-poo-e-prototipagem)
 
 ## *About:*
 
