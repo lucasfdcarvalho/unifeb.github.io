@@ -6,8 +6,8 @@
 
 ## Menu
 
-- [Subjects](/en/subjects//subjects.md)
-- [Projects](/en/projects//projects.md)
+- [Subjects](/en/subjects/subjects.md)
+- [Projects](/en/projects/projects.md)
 - [Blog](/en/blog_en/blog_en.md)
 
 
