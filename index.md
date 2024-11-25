@@ -11,6 +11,7 @@ Some information about subjects, projects, etc:
 
 - [Subjects](/docs/subjects.md)
 - [Projects](/docs/projects.md)
+- [Blog](/blog/blog.md)
 
 
 ## Source
