@@ -6,9 +6,9 @@
 
 ## Menu
 
-- [Subjects](/en/subjects/subjects.md)
-- [Projects](/en/projects/projects.md)
-- [Blog](/en/blog_en/blog_en.md)
+- [Subjects](/subjects/subjects_en.md)
+- [Projects](/projects/projects_en.md)
+- [Blog](/blog/blog_en.md)
 
 ## Source
 View source on GitHub:
