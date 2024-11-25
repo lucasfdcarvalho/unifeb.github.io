@@ -1,4 +1,4 @@
-# **@omiguelsma** ## ***Tech, Data & AI | Simplex & Efficax***
+# **@omiguelsma**
 
 ## About:
 
@@ -6,11 +6,9 @@
 
 ## Menu
 
-Some information about subjects, projects, etc:
-
-- [Subjects](/docs/subjects.md)
-- [Projects](/docs/projects.md)
-- [Blog](/blog/blog.md)
+- [Subjects](/en/subjects//subjects.md)
+- [Projects](/en/projects//projects.md)
+- [Blog](/en/blog_en/blog_en.md)
 
 
 ## Source
