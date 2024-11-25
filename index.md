@@ -1,5 +1,4 @@
-# **@omiguelsma** 
-## ***Tech, Data & AI | Simplex & Efficax***
+# **@omiguelsma** ## ***Tech, Data & AI | Simplex & Efficax***
 
 ## About:
 
