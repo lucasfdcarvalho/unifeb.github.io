@@ -1,4 +1,4 @@
-# **Miguel Martins @omiguelsma** 
+# **@omiguelsma** 
 ## ***Tech, Data & AI | Simplex & Efficax***
 
 ## About:
