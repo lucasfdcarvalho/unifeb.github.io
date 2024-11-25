@@ -17,4 +17,4 @@
 
 ## Homepage:
 
-[![Home Page - HOME](https://img.shields.io/static/v1?label=Home+Page&message=HOME&color=%23009BD5&style=for-the-badge&logo=homepage)](https://omiguelsma.github.io/)
+[![omiguelsma - HOMEPAGE](https://img.shields.io/static/v1?label=omiguelsma&message=HOMEPAGE&color=%23009BD5&style=for-the-badge&logo=homepage)](https://omiguelsma.github.io/)
