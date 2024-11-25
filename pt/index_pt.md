@@ -1,4 +1,4 @@
-# [![THIS PAGE IN ENGLISH](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+ENGLISH&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/index.html)
+# [![THIS PAGE IN ENGLISH](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+ENGLISH&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
 
 ## Sobre:
 
