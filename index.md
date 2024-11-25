@@ -1,4 +1,4 @@
-# [![ESTA PÁGINA EM PORTUGUÊS](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](/index_pt.md)
+# [![ESTA PÁGINA EM PORTUGUÊS](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](/index_pt/index_pt.md)
 
 ## About:
 
