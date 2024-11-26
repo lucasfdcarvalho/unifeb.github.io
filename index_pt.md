@@ -12,8 +12,6 @@
 
 [![BLOG](https://img.shields.io/static/v1?label=&message=BLOG&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/blog/blog_pt.html)
 
-#
-
 ### Código Fonte
 View source on GitHub:
 [![omiguelsma - omiguelsma.github.io](https://img.shields.io/static/v1?label=omiguelsma&message=omiguelsma.github.io&color=black&logo=github)](https://github.com/omiguelsma/omiguelsma.github.io "Go to GitHub repo") [![stars - omiguelsma.github.io](https://img.shields.io/github/stars/omiguelsma/omiguelsma.github.io?style=social)](https://github.com/omiguelsma/omiguelsma.github.io) [![forks - omiguelsma.github.io](https://img.shields.io/github/forks/omiguelsma/omiguelsma.github.io?style=social)](https://github.com/omiguelsma/omiguelsma.github.io)
