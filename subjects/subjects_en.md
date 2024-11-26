@@ -9,6 +9,10 @@
 
 ## 2024/2:
 
+[![unifeb - INFORMATION SYSTEMS - DATABASES](https://img.shields.io/static/v1?label=unifeb+-+INFORMATION+SYSTEMS&message=DATABASES&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
+
+[![unifeb - INFORMATION SYSTEMS - Integrative Project: Analysis of Software, Web Development and Costs](https://img.shields.io/static/v1?label=unifeb+-+INFORMATION+SYSTEMS&message=Integrative+Project%3A+Analysis+of+Software%2C+Web+Development+and+Costs&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
+
 ## 2025/1:
 
 ## Homepage:
