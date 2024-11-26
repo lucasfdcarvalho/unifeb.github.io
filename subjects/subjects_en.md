@@ -1,4 +1,4 @@
-# **Subjects:** # [![ESTA PÁGINA EM PORTUGUÊS](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](subjects/subjects_pt.html)
+# **Subjects:** [![ESTA PÁGINA EM PORTUGUÊS](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](subjects/subjects_pt.html)
 
 
 ## 2024/1:
