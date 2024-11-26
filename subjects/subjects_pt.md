@@ -17,6 +17,6 @@
 ## 2025/1:
 
 
-# Homepage: 
+# Página Inicial: 
 
-[![omiguelsma - HOMEPAGE](https://img.shields.io/static/v1?label=omiguelsma&message=HOMEPAGE&color=%23009BD5&style=for-the-badge&logo=homepage)](https://omiguelsma.github.io/)
+[![omiguelsma - PÁGINA INICIAL](https://img.shields.io/static/v1?label=omiguelsma&message=PÁGINA+INICIAL&color=%23009BD5&style=for-the-badge&logo=homepage)](https://omiguelsma.github.io/index_pt.html)
