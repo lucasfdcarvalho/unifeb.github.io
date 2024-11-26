@@ -1,4 +1,4 @@
-# **Disciplinas:** [![THIS PAGE IN ENGLISH](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](/subjects_en.html)
+# **Disciplinas:** [![THIS PAGE IN ENGLISH](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/subjects/subjects_en.html)
 
 
 ## 2024/1:
