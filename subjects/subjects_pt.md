@@ -3,7 +3,7 @@
 
 ## 2024/1:
 
-[![UNIFEB - SISTEMAS DE INFORMAÇÃO - SISTEMAS INTELIGENTES](https://img.shields.io/static/v1?label=unifeb+-+SISTEMAS+INTELIGENTES&message=SISTEMAS+INTELIGENTES&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
+[![UNIFEB - SISTEMAS DE INFORMAÇÃO - SISTEMAS INTELIGENTES](https://img.shields.io/static/v1?label=unifeb+-+SISTEMAS+DE+INFORMAÇÃO&message=SISTEMAS+INTELIGENTES&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
 
 [![UNIFEB - SISTEMAS DE INFORMAÇÃO - Projeto Integrador: Progamação Orientada a Objetos e Prototipagem](https://img.shields.io/static/v1?label=unifeb+-+SISTEMAS+DE+INFORMAÇÃO&message=PROJETO+INTEGRADOR%3A+PROGRAMAÇÃO+ORIENTADA+À+OBJETOS+E+PROTOTIPAGEM&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
 
