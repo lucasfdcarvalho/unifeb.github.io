@@ -1,5 +1,6 @@
-# **Subjects:** [![ESTA PÁGINA EM PORTUGUÊS](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/subjects/subjects_pt.html)
+[![ESTA PÁGINA EM PORTUGUÊS](https://img.shields.io/static/v1?label=&message=ESTA+PÁGINA+EM+PORTUGUÊS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/subjects/subjects_pt.html)
 
+# **Subjects:**
 
 ## 2024/1:
 
