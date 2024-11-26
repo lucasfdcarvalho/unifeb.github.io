@@ -8,7 +8,7 @@
 
 [![DISCIPLINAS](https://img.shields.io/static/v1?label=&message=DISCIPLINAS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/subjects/subjects_pt.html)
 
-[![PROJETOS](https://img.shields.io/static/v1?label=&message=PROJECTS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/projects/projects_pt.html)
+[![PROJETOS](https://img.shields.io/static/v1?label=&message=PROJETOS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/projects/projects_pt.html)
 
 [![BLOG](https://img.shields.io/static/v1?label=&message=BLOG&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/blog/blog_pt.html)
 
