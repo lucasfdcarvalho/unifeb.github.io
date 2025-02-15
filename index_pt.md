@@ -1,16 +1,16 @@
-[![THIS PAGE IN ENGLISH](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+ENGLISH&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/)
+[![THIS PAGE IN ENGLISH](https://img.shields.io/static/v1?label=&message=THIS+PAGE+IN+ENGLISH&color=%23009BD5&style=for-the-badge)](https://unifeb.github.io/)
 
 # Sobre
 
-[![omiguelsma](https://img.shields.io/badge/omiguelsma-2ea44f?logo=linktree)](https://linktr.ee/omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-0A66C2?logo=linkedin)](https://www.linkedin.com/in/omiguelsma/) [![newsletter](https://img.shields.io/badge/newsletter-0A66C2?logo=Linkedin&logoColor=white)](https://www.linkedin.com/newsletters/miguel-martins-7096867405242507264/) [![omiguelsma](https://img.shields.io/badge/omiguelsma-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/omiguelsma/) [![omiguelsma](https://img.shields.io/badge/omiguelsma-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-black?logo=github)](https://github.com/omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-EA4335?logo=gmail&logoColor=white)](mailto:omiguelsma@gmail.com) [![cv lattes](https://img.shields.io/badge/cv_lattes-blue?logo=readdotcv&logoColor=white)](http://lattes.cnpq.br/1312273870344874) [![omiguelsma](https://img.shields.io/badge/omiguelsma-03EF62?logo=DataCamp&logoColor=white)](https://www.datacamp.com/portfolio/omiguelsma) [![omiguelsma](https://img.shields.io/badge/omiguelsma-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/omiguelsma)
+[![Sistemas de Informação UNIFEB](https://img.shields.io/badge/Sistemas%20de%20Informação_UNIFEB-302683?logo=htmlacademy)](https://vestibular.unifeb.edu.br/curso.php?id=28) [![Contato UNIFEB](https://img.shields.io/badge/Contato_UNIFEB-25D366?logo=whatsapp&logoColor=white)](https://wa.me/551733216411)
 
 # Menu
 
-[![DISCIPLINAS](https://img.shields.io/static/v1?label=&message=DISCIPLINAS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/subjects/subjects_pt.html)
+[![DOSCENTES](https://img.shields.io/static/v1?label=&message=DOSCENTES&color=%23009BD5&style=for-the-badge)](https://unifeb.github.io/doscentes/doscentes_pt.html)
 
-[![PROJETOS](https://img.shields.io/static/v1?label=&message=PROJETOS&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/projects/projects_pt.html)
+[![DISCENTES](https://img.shields.io/static/v1?label=&message=DISCENTES&color=%23009BD5&style=for-the-badge)](https://unifeb.github.io/discentes/discentes_pt.html)
 
-[![BLOG](https://img.shields.io/static/v1?label=&message=BLOG&color=%23009BD5&style=for-the-badge)](https://omiguelsma.github.io/blog/blog_pt.html)
+[![BLOG](https://img.shields.io/static/v1?label=&message=BLOG&color=%23009BD5&style=for-the-badge)](https://unifeb.github.io/blog/blog_pt.html)
 
 ### Código Fonte
 View source on GitHub:
