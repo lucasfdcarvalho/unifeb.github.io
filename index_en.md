@@ -2,7 +2,7 @@
 
 # About
 
-[![Information Systems UNIFEB](https://img.shields.io/badge/Information%20Systems_UNIFEB-302683?logo=htmlacademy)](https://vestibular.unifeb.edu.br/curso.php?id=28) [![UNIFEB Contact](https://img.shields.io/badge/UNIFEB_Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/551733216411)
+[![Information Systems UNIFEB](https://img.shields.io/badge/Information%20Systems_UNIFEB-302683?logo=htmlacademy)](https://vestibular.unifeb.edu.br/curso.php?id=28) [![UNIFEB Contact](https://img.shields.io/badge/UNIFEB_Contact-25D366?logo=whatsapp&logoColor=white)](https://wa.me/551733216411) [![Instagram Information Systems UNIFEB](https://img.shields.io/badge/Instagram_Information_Systems_UNIFEB-8A2BE2?logo=instagram)](https://www.instagram.com/siunifeb/)
 
 # Menu
 
